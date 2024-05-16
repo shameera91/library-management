@@ -3,7 +3,7 @@
 Use BookBorrow ,table to store data related to borrowed books.
 boolean returned variable used to identify the already borrowd books.
 
-Most of the APIs resturning string value as a success respose. (this needs a changed with properly constructed output dtos).
+Most of the APIs resturning string value as a success response. (this needs a changed with properly constructed output dtos).
 
 RestException handler introduced to handle the execptions all over the project.
 
